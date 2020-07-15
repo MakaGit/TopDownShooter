@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FxTemporaire
+  - Key
+  - Ak74ammo
+  - Weapon
+  - BlueKey
+  - FirstAidKit
   layers:
   - Default
   - TransparentFX
@@ -13,13 +19,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Chunk
+  - ChunkDockPoints
+  - Enemies
+  - Obstacles
+  - Weapons
+  - PickUps
   - 
   - 
   - 
